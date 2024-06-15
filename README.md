@@ -5,8 +5,7 @@ Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 The objective of the Future Ready Talent Internship project is to create a hospital website using Azure static website technology. This website will be integrated with Azure HealthBot to provide efficient and remote services to people. The chatbot feature will allow users to easily communicate and obtain answers to general health-related concerns.
 
 ## Project Link
-[HealthEase Website](https://red-field-060b0de0f.5.azurestaticapps.net/)
-
+[HealthEase](https://nice-bush-0c7044c0f.5.azurestaticapps.net)
 ## Demo Video
 [Watch Demo](https://vimeo.com/954108851?share=copy)
 
