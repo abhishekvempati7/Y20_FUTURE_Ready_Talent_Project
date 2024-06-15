@@ -47,17 +47,15 @@ A healthbot's advanced function makes it possible to answer general health-relat
 
 ## Screenshots
 
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/ff2179f5-a60b-49f0-8d99-a1f41586b951)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/6795fb85-a0af-4aea-ae2c-d7d6b214c9d1)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/f5d43334-ff34-4f97-be3d-2c0bf1e04ac3)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/088ebac8-552a-48c3-8d58-017f39520f9a)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/714fc623-9c42-4e38-a671-58b310d1b6de)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/77b1d332-1a14-4fcd-8d22-cd0d41dc4a6a)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/6ac56246-2bb3-4bd2-aa9b-68f7e4dd587a)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/6e11013b-7989-4d0d-975f-93175f6a3ebe)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/afba0f6f-30b4-47ce-bab7-55ad79f10e25)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/fcccdf9b-e641-4bd7-ab13-c6262684609c)
-![image](https://github.com/abhishekvempati7/Y20_FRT_GROUP_PROJECT/assets/170261049/537cb414-b579-4b8d-bdee-589f100cfef6)
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/bb1b7c63-aac6-400f-b35e-e39b3a7ec999)
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/71f3ecbc-10d1-42a5-b403-5d6fcb2298a2)
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/483df203-3cf2-494e-9db8-218f717ebcd7)
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/ca37d4c8-689f-43d5-9e3f-61f3fad9dab3)
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/6e2a19f2-cc5f-49ca-b3e1-e61ff1791193)
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/e14bf7b3-9e59-4e9d-87b3-7273a0c8e681)
+
+## Result
+![image](https://github.com/abhishekvempati7/Y20_Future_Ready_Talent_Project/assets/170261049/85589dff-ba35-43d1-af12-de8a418d497c)
 
 ## Contributors
 
